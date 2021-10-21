@@ -1,4 +1,4 @@
-package exercise4;
+package exercise1;
 
 public class Tree {
 

@@ -1,4 +1,4 @@
-package exercise3;
+package exercise1;
 
 public class FdibaOutput{
   

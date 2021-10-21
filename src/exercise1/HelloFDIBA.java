@@ -1,4 +1,4 @@
-package exercise2;
+package exercise1;
 
 public class HelloFDIBA {
 
